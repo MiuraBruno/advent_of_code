@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter Notebook metadata
+*.nbconvert/
+*.nbconvert.py
+*.nbconvert.ipynb
+
+# Hidden files
+.DS_Store
+Thumbs.db
+
+# Log and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.~lock.*
+
+# Python environment files
+*.env
+*.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Output files (optional)
+*.out
+*.log
+
+# Ignore data files
+*.csv
+*.tsv
+*.json
+*.yaml
+*.yml
+*.xml
+*.txt
+*.parquet
+
+# Ignore large binary files (optional)
+*.h5
+*.hdf5
+*.pickle
+*.pkl
+
+# Notebook execution results (optional)
+*.png
+*.jpg
+*.svg
+*.pdf
+
+# IDE files
+.idea/
+.vscode/
