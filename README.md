@@ -17,7 +17,7 @@
 ## structure
 ```
 .
-└── year                   			  # year advent of code
+└── year                          # year advent of code
     └── day                       # day
         └── autor_solution.ipynb  # solution in python_notebook
 ```
