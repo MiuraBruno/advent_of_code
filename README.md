@@ -14,5 +14,8 @@
   - pandas (if needed, for tabular data handling)
   - matplotlib or seaborn (for any visualizations or data analysis)
  
-  ## structure
-  / ├── pasta1/ │ └── pasta2/ │ └── pasta3/ │ └── script.py
+## structure
+.
+└── year                   			  # year advent of code
+    └── day                       # day
+        └── autor_solution.ipynb  # solution in python_notebook
