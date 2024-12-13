@@ -15,7 +15,9 @@
   - matplotlib or seaborn (for any visualizations or data analysis)
  
 ## structure
+```
 .
 └── year                   			  # year advent of code
     └── day                       # day
         └── autor_solution.ipynb  # solution in python_notebook
+```
