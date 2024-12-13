@@ -13,3 +13,6 @@
   - numpy (for mathematical computations and data manipulation)
   - pandas (if needed, for tabular data handling)
   - matplotlib or seaborn (for any visualizations or data analysis)
+ 
+  ## structure
+  / ├── pasta1/ │ └── pasta2/ │ └── pasta3/ │ └── script.py
