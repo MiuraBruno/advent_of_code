@@ -46,7 +46,6 @@ pip-delete-this-directory.txt
 *.yaml
 *.yml
 *.xml
-*.txt
 *.parquet
 
 # Ignore large binary files (optional)
